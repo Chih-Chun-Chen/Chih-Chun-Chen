@@ -1,4 +1,4 @@
-## About Me:
+About Me:
 ##About Me<br><br>Hi there! 👋 I'm James Chen<br>- 🔭 I’m currently working on Computer Science TA @ Brigham Young University–Hawaii<br>- 🌱 I’m constantly learning and exploring Web Development<br>- 💬 Ask me about the fascinating realms of technology and innovation, and how they intersect with the ever-evolving world of coding<br>- 📫 How to reach me: jimmy19981226@gmail.com<br>- ⚡ Fun fact: I'm embarking on a journey of discovery, unraveling the wonders of the digital realm through the language of code<br><br>Feel free to explore my GitHub repositories and don't hesitate to reach out if you have any questions or would like to connect. I'm always open to interesting discussions and new opportunities.<br><br>Let's make the world a better place through technology and innovation!
 
 
